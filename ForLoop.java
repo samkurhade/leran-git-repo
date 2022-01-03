@@ -124,5 +124,6 @@ public class ForLoop {
         }
         System.out.println(res1);
 
+//        Added while loop
     }
 }
