@@ -55,5 +55,6 @@ public class Arrays1 {
         avg /= n;
         System.out.println("Average marks are "+ avg);
 
+        System.out.println("in dev branch");
     }
 }
